@@ -1,6 +1,6 @@
 # Raquel Nockelli
 
-- Análise e Desenvolvimento de Sistemas 🎓 
+- Análise e Desenvolvimento de Sistemas (3º semestre) 🎓 
 - FATEC Sorocaba 🏛️ 
 - São Paulo, Brasil 🌎
   
