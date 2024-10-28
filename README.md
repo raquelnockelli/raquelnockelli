@@ -21,12 +21,14 @@ Gosto de estar sempre aprendendo e me desafiando. Como uma entusiasta em inovaç
 - Boa comunicação e escuta 
 - Trabalho em equipe e colaboração
 
- ### Hard Skills
+### Hard Skills
 <div style="display: inline_block">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Portugol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+
 
 ## 📈 Habilidades em Desenvolvimento
 <div style="display: inline_block"><br>
