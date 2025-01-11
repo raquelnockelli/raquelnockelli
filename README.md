@@ -1,7 +1,7 @@
 # Raquel Nockelli
 
 - Análise e Desenvolvimento de Sistemas (4º semestre) 🎓 
-- FATEC Sorocaba 🏛️ 
+- FATEC Sorocaba 🏰 
 - São Paulo, Brasil 🌎
   
 Gosto de estar sempre aprendendo e me desafiando. Como uma entusiasta em inovação e nos benefícios que a tecnologia é capaz de trazer para a humanidade, estou determinada a expandir meus conhecimentos no mundo da tecnologia, buscando sempre evoluir profissionalmente e pessoalmente.
@@ -23,28 +23,21 @@ Gosto de estar sempre aprendendo e me desafiando. Como uma entusiasta em inovaç
 
 ### Hard Skills
 <div style="display: inline_block">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-
+  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="C#" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img align="center" alt="C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+ </div>
 
 ## 📈 Habilidades em Desenvolvimento
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Git" height="30" width="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Markdown" height="30" width="40" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 <br>
-
-
-
-
 
 ## GitHub Stats
 <div>
@@ -52,5 +45,3 @@ Gosto de estar sempre aprendendo e me desafiando. Como uma entusiasta em inovaç
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelnockelli&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <br>
-
-
